@@ -2,17 +2,17 @@
 I'm focused on visual perception.
 
 ## Fun Fact
-Each eye has 5 million light sensitive cells called "cones". Cones are responsible for daytime color vision. This isbsort of like a 5 megapixel camera. 
+Each eye has 5 million light sensitive cells called "cones". Cones are responsible for daytime color vision. This is sort of like a 5 megapixel camera. 
 
 But each eye is connected to the brain by only 1.2 million optic nerve fibres. 
 
 #### How do you get 5 million things down just 1.2 million paths?
 
-The answer is nature's data conpression scheme, called the opponent color process. After the three cone types sense light, fourteen types og ganglion cells combine and reduce the signals to a "dark to light" signal we call luminance. Most of the visual information is encoded this way.
+The answer is nature's data compression scheme, called the opponent color process. After the three cone types sense light, fourteen types of ganglion cells combine and reduce the signals to a "dark to light" channel we call luminance. Most of the visual information is encoded this way.
 
-The remaining color information becomes a yellow to blue signal, and a red to green signal. This gives us the four "unique colors" of human vision: red yellow green blue.
+The remaining color information becomes a yellow to blue channel, and a red to green channel. This gives us the four "unique colors" of human vision: red, yellow green, and blue.
 
-Yellow and blue are "opponents", when combined, the color goes away, and become the dark to lightness signal.
+Yellow and blue are "opponents", when combined, the color goes away, and become the darkness to lightness channel.
 
 Red and green are opponents, when combined, the color becomes yellow.
 
@@ -23,9 +23,9 @@ This is because there are three types of cone cells in the eye (LMS), each cover
 
 ### LMS - Large, Medium, Small?
 
-LMS stands for Long, Medium, and Short, meaning the wavelength of light they are most sensitive to.
+LMS stands for Long, Medium, and Short, meaning the wavelengths of light they are most sensitive to.
 
-But in a funny way, large, medium, small are also descriptive, as we have more L cones than any other, they make up the largest group of cones, and we have very few S cones, so they make up the smallest group.
+But in a funny way, large, medium, small are also descriptive. We have more L cones than any other; they make up the largest group of cones. We have very few S cones, so they make up the smallest group.
 
 
 The L cone is sensitive to deep reds, through orange, yellow, into green. It is most sensitive to yellow.
@@ -44,7 +44,7 @@ The L and M cones combine together to create luminance, the darkness/lightness c
 The luminance channel contains all of the fine details, edges, thin lines, etc. The color channels contain very little detail, in fact less than a third of the resolution of the luminance channel.
 
 ## Summary
-What we see is divided into  a lightness/darkness chsnnel cslled luminance, with colors separated into a red/green group and a blue/yellow group.
+What we see is divided into  a lightness/darkness channel cslled luminance, with colors separated into a red/green group and a blue/yellow group.
 
 The luminance channel and the color channels support different functions and are used for different tasks. Small details are held in luminance. Therefore luminance is most important for reading text, detecting edges, understanding textures.
 
